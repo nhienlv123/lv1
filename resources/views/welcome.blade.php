@@ -7,7 +7,7 @@
     </head>
     <body>
         <div id="app">
-            <!-- <my-component></my-component> -->
+            <my-component></my-component>
             <conditional-rendering></conditional-rendering>
         </div>
         <script src="/js/app.js"></script>
