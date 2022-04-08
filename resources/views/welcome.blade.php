@@ -8,7 +8,10 @@
     <body>
         <div id="app">
             <!-- <my-component></my-component> -->
-            <conditional-rendering></conditional-rendering>
+            <!-- <conditional-rendering></conditional-rendering> -->
+            <!-- <list-rendering></list-rendering> -->
+            <!-- <user-dashboard></user-dashboard> -->
+            <my-text></my-text>
         </div>
         <script src="/js/app.js"></script>
     </body>

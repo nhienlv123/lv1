@@ -27,8 +27,12 @@ Vue.component('example-component', require('./components/ExampleComponent.vue').
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
+
 Vue.component('my-component', require('./components/MyComponent.vue').default);
 Vue.component('conditional-rendering', require('./components/ConditionalRendering.vue').default);
+Vue.component('list-rendering', require('./components/ListRendering.vue').default);
+Vue.component('user-dashboard', require('./components/UserDashboard.vue').default);
+Vue.component('my-text', require('./components/LifeCycle').default);
 
 const app = new Vue({
     el: '#app',
