@@ -11,7 +11,7 @@
             <!-- <conditional-rendering></conditional-rendering> -->
             <!-- <list-rendering></list-rendering> -->
             <!-- <user-dashboard></user-dashboard> -->
-            <my-text></my-text>
+            <my-text> </my-text>
         </div>
         <script src="/js/app.js"></script>
     </body>
